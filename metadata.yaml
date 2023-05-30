@@ -1,5 +1,5 @@
 homepage: "https://www.safeopt.com/"
 documentation: "https://github.com/addshoppers/google-tag-manager-conversion-tag"
 versions:
-  - sha: 
+  - sha: 22775f85b54866a95ee99f247a67fa49f87f1a21
     changeNotes: Initial release.
